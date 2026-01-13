@@ -15,4 +15,5 @@
 # 8. 优化错误处理和日志记录
 # 9. 支持使用代理地址
 将代理地址填入此行：proxy = {"http": "socks5h://127.0.0.1:7897", "https": "socks5h://127.0.0.1:7897"}
+
 <img width="1000" height="990" alt="image" src="https://github.com/user-attachments/assets/85a05915-34bb-40f3-a601-2907ac77e4bf" />
